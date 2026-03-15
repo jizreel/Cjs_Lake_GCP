@@ -1,0 +1,6 @@
+project_id: cjs-lake-dev-base
+location: US
+bucket_raw: cjs-lake-dev-base
+dataset_bronze: bronze_dev
+dataset_silver: silver_dev
+dataset_gold: gold_dev
